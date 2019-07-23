@@ -1,6 +1,8 @@
 # translate-this
 Simple bookmarklet for common webbrowsers, to automatically translate the website you are currently on.
 
+![Usage-gif](https://gist.github.com/toluschr/29042c926caed2ce6979d1b8fbea51a8/raw/546df7c724f0588557d9532f76cda9b38e987f59/usage.gif)
+
 ## Installation
 
 ![Installation-gif](https://gist.githubusercontent.com/toluschr/29042c926caed2ce6979d1b8fbea51a8/raw/f09ea8e6194c3b60d60a22f159e5d912eb99fcae/installation.gif)
